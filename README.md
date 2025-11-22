@@ -12,7 +12,7 @@ This repository includes a full SQL project file containing all analytical queri
 ![ER Diagram](./Screenshot%202025-11-22%20131409.png)
 
 # Technologies Used
-MySQL
-SQL querying (DDL, DML, DQL)
-Relational database design
-ER modeling
+MySQL,
+SQL querying (DDL, DML, DQL),
+Relational database design,
+ER modeling.
