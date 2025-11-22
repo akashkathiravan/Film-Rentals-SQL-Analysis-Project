@@ -4,7 +4,7 @@ This repository includes a full SQL project file containing all analytical queri
 
 ## you can view or download the complete SQL script here:
 
-![SQL SCRIPT]([./Screenshot%202025-11-22%20131409.png](https://github.com/akashkathiravan/Film-Rentals-SQL-Analysis-Project/blob/9677577544d69d6189f227c75123218ad276892f/sql.pj.filmrentals.sql))
+![SQL SCRIPT](sql.pj.filmrentals.sql)
 
 
 ## ER Diagram
